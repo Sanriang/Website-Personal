@@ -21,7 +21,7 @@ body{
 	font-weight: bold;
 	float: left;
 	font-family: courier;
-	color: #2E5077;
+	color: #9A0000;
 }
 
 .menu {
@@ -38,7 +38,7 @@ nav {
 	top: 0;
 	background: #FFFFFF;
 	z-index: 1;
-	border-bottom: 1px solid #2E5077;
+	border-bottom: 1px solid #9A0000;
 }
 
 nav ul {
@@ -79,7 +79,7 @@ section {
 	font-size: 20px;
 	font-weight: bold;
 	font-family: 'comic sans ms';
-	color: #2E5077;
+	color: #9A0000;
 }
 
 h2 {
@@ -87,7 +87,8 @@ h2 {
 	font-weight: 900px;
 	font-size: 45px;
 	margin-bottom: 20px;
-	color: #2E5077;
+	margin-left: 30px;
+	color: #9A0000;
 	width: 100%;
 	line-height: 50px;
 }
@@ -111,6 +112,7 @@ a.tbl-pink {
 	background: #FF8383;
 	border-radius: 20px;
 	margin-top: 20px;
+	margin-left: 5px;
 	padding: 15px 20px 15px 20px;
 	color: #FFFFFF;
 	cursor: pointer;
@@ -124,6 +126,7 @@ a.tbl-pink:hover {
 
 p {
 	margin: 10px 0px 10px 0px;
+	margin-left: 30px;
 	padding: 10px 0px 10px 0px;
 }
 
@@ -154,7 +157,7 @@ p {
 	font-weight: 800;
 	font-size: 25px;
 	text-align: center;
-	color: #2E5077;
+	color: #9A0000;
 }
 
 .partner-list {
@@ -170,7 +173,8 @@ p {
 }
 
 .kartu-partner img {
-	width: 310px;
+	width: 210px;
+	margin: 50px;
 	border-radius: 50%;
 }
 
@@ -197,7 +201,7 @@ h3 {
 	font-weight: 800;
 	font-size: 30px;
 	margin-bottom: 20px;
-	color: #2E5077;
+	color: #9A0000;
 	width: 100%;
 	line-height: 50px;
 }
